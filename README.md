@@ -12,6 +12,6 @@ I am a web developer passionate about multimedia, video, sound, and creative pro
 - 💻 Development (HTML, CSS, JavaScript, etc.)
 - 🎥 Multimedia production
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=admjski&show_icons=true&theme=dracula)](https://github.com/admjski)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=admjski&show_icons=true&theme=dracula)](https://github.com/uxillary)
 # 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
