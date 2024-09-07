@@ -1,11 +1,9 @@
-# admjski
-
 # Hi, I'm Adam 👋
 
-I am a web developer passionate about multimedia, video, sound, and creative projects. 
+I am a web developer passionate about programming, multimedia, video, sound, and creative projects. 
 - 🔭 I’m currently working on my portfolio website, open-source contributions and solo projects.
 - 🌱 I’m exploring new skills in multimedia and sound design.
-- 💬 Ask me about my creative projects and collaborations.
+- 💬 Ask me about a project collaboration.
 
 ## Skills
 - 🎨 Web & App design
