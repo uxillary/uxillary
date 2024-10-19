@@ -26,3 +26,4 @@ I am a web developer passionate about programming, multimedia and creative proje
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/admjski/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@ajstudios.online)
 
+<!-- add SNAKE -->
