@@ -34,6 +34,4 @@ I'm Adam, a web developer passionate about programming, multimedia and creative 
 [<img src="https://img.shields.io/badge/🔗-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" height="30">](https://www.facebook.com/profile.php?id=61557654901325)
 [<img src="https://img.shields.io/badge/🔗-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Logo" height="30">](https://buymeacoffee.com/admjski)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxillary&show_icons=true&theme=merko)
-
 <!-- add SNAKE -->
