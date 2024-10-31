@@ -1,8 +1,8 @@
-# Hi, I'm Adam 👋
+# Yo 😎
 
-I am a web developer passionate about programming, multimedia and creative projects. 
+I'm Adam, a web developer passionate about programming, multimedia and creative projects. 
 - 🔭 I’m currently working on my portfolio website, open-source contributions and other solo projects.
-- 🌱 I’m exploring new skills in multimedia including sound design.
+- 🌱 I’m exploring new skills in multimedia including sound design & photography.
 - 💬 Ask me about a project collaboration.
 
 ## Skills
