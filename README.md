@@ -23,15 +23,17 @@ I'm Adam, a web developer passionate about programming, multimedia and creative 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxillary&show_icons=true&theme=dracula)](https://github.com/uxillary)-->
 #
 [<img src="https://img.shields.io/badge/🔗-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" height="30">](https://github.com/uxillary)
-[<img src="https://img.shields.io/badge/🔗-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" height="30">](https://www.instagram.com/admjski/)
-[<img src="https://img.shields.io/badge/🔗-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" height="30">](https://www.facebook.com/profile.php?id=61557654901325)
 [<img src="https://img.shields.io/badge/🔗-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" height="30">](https://x.com/admjski)
+[<img src="https://img.shields.io/badge/🔗-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="30">](mailto:mail@ajstudios.online)
+[<img src="https://img.shields.io/badge/🔗-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" height="30">](https://www.instagram.com/admjski/)
+[<img src="https://img.shields.io/badge/🔗-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Portfolio Logo" height="30">](https://adamjohnston60.myportfolio.com)
+[<img src="https://img.shields.io/badge/🔗-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt Logo" height="30">](https://www.deviantart.com/admjski)
+[<img src="https://img.shields.io/badge/🔗-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Logo" height="30">](https://developers.google.com/profile/u/adamski)
 [<img src="https://img.shields.io/badge/🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" height="30">](https://www.linkedin.com/in/admjski)
 [<img src="https://img.shields.io/badge/🔗-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Logo" height="30">](https://www.behance.net/admjski)
+[<img src="https://img.shields.io/badge/🔗-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" height="30">](https://www.facebook.com/profile.php?id=61557654901325)
 [<img src="https://img.shields.io/badge/🔗-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Logo" height="30">](https://buymeacoffee.com/admjski)
-[<img src="https://img.shields.io/badge/🔗-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="30">](mailto:mail@ajstudios.online)
-[<img src="https://img.shields.io/badge/🔗-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt Logo" height="30">](https://www.deviantart.com/admjski)
-[<img src="https://img.shields.io/badge/🔗-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adam Adobe Portfolio" height="30">](https://adamjohnston60.myportfolio.com)
-[<img src="https://img.shields.io/badge/🔗-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Logo" height="30">](https://developers.google.com/profile/u/adamski)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
 <!-- add SNAKE -->
