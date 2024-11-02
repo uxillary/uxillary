@@ -1,9 +1,10 @@
 # Yo 😎
 
-I'm Adam, a web developer passionate about programming, multimedia and creative projects. 
-- 🔭 I’m currently working on my portfolio website, open-source contributions and other solo projects.
-- 🌱 I’m exploring new skills in multimedia including sound design & photography.
-- 💬 Ask me about a project collaboration.
+I'm Adam, a web developer based in Scotland.
+- 🔭 I’m currently working on my portfolio website, open-source contributions & other solo projects.
+- 🌱 Exploring new skills in multimedia including sound design & photography.
+- 🖥️ Rediscovering my coding roots and bringing new energy to old projects.
+- 💬 Feel free to ask about project collaborations - i'm trying to expand my Github profile & portfolio.
 
 ## Skills
 - 🎨 App & Web design
@@ -23,6 +24,7 @@ I'm Adam, a web developer passionate about programming, multimedia and creative 
 [<img src="https://img.shields.io/badge/🔗-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" height="30">](https://www.facebook.com/profile.php?id=61557654901325)
 [<img src="https://img.shields.io/badge/🔗-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Logo" height="30">](https://buymeacoffee.com/admjski)
 
+
 ## Tech Stack
 | Languages  | Backend         | Frontend        | Database                | Other                 |
 | ---------- | --------------- | --------------- | ------------------------ | --------------------- |
@@ -33,7 +35,11 @@ I'm Adam, a web developer passionate about programming, multimedia and creative 
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |                 | [![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)  |            | [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)  |
 |            |                 | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  |            | [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)  |
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxillary&show_icons=true&theme=dracula)](https://github.com/uxillary)-->
 
+![uxillary's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uxillary&theme=vue-dark&hide_border=true)
+
+![uxillary's Stats](https://github-readme-stats.vercel.app/api?username=uxillary&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![uxillary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uxillary&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- add SNAKE -->
