@@ -43,7 +43,7 @@ I'm Adam, a web developer based in Scotland.
 [<img src="https://img.shields.io/badge/🔗-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" height="30">](https://x.com/admjski)
 [<img src="https://img.shields.io/badge/🔗-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="30">](mailto:mail@ajstudios.online)
 [<img src="https://img.shields.io/badge/🔗-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" height="30">](https://www.instagram.com/admjski/)
-[<img src="https://img.shields.io/badge/🔗-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Portfolio Logo" height="30">](https://adamjohnston60.myportfolio.com)
+[<img src="https://img.shields.io/badge/🔗-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Portfolio Logo" height="30">](https://admjski.myportfolio.com)
 [<img src="https://img.shields.io/badge/🔗-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt Logo" height="30">](https://www.deviantart.com/admjski)
 [<img src="https://img.shields.io/badge/🔗-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Logo" height="30">](https://developers.google.com/profile/u/adamski)
 [<img src="https://img.shields.io/badge/🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" height="30">](https://www.linkedin.com/in/admjski)
