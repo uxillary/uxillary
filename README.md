@@ -7,9 +7,9 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 - 💬 Feel free to ask about project collaborations - looking to expand my portfolio & online presence.
 
 ## Latest
-- 2025 - Greg-AI voice model using Python, Infinite Curios blog with Tailwind.
-- 2024 - AJ Studios portfolio site, Aspartame Awareness.org, Intermittent Fasting app concept, "Qrky" QR dog tags and Neo-QOL scripts.
-- 2023 - Writing SEO book, started back in 2018 to be published on Amazon KDP in 2025.
+- 2025 - Training the Greg-AI voice model, primarily using Python. Developing the Infinite Curios general blog with Tailwind.
+- 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Conceptualised an Intermittent Fasting app. Developed "Qrky" QR dog tags brand and Neo Quality of Life scripts.
+- 2023 - Writing an SEO book, originally started in 2017, set for Amazon KDP publication in 2025.
 
 ## Skills
 - 🎨 Web & App Design
