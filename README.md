@@ -1,13 +1,18 @@
 # Yo 😎
 
-I'm Adam, a web developer based in Scotland.
-- 🔭 I’m currently working on my portfolio website, open-source contributions & other solo projects.
-- 🌱 Exploring new skills in multimedia including sound design & photography.
+I'm Adam, a creative digital/ web developer based in Scotland.
+- 🔭 Currently working on my portfolio website, open-source contributions & other solo projects.
+- 🌱 Exploring new skills in multimedia including photography & sound design.
 - 🖥️ Rediscovering my coding roots and bringing new energy to old projects.
-- 💬 Feel free to ask about project collaborations - i'm trying to expand my Github profile & portfolio.
+- 💬 Feel free to ask about project collaborations - looking to expand my portfolio & online presence.
+
+## Latest
+- 2025 - Greg-AI voice model using Python, Infinite Curios blog with Tailwind.
+- 2024 - AJ Studios portfolio site, Aspartame Awareness.org, Intermittent Fasting app concept, "Qrky" QR dog tags and Neo-QOL scripts.
+- 2023 - Writing SEO book, started back in 2018 to be published on Amazon KDP 2025.
 
 ## Skills
-- 🎨 App & Web design
+- 🎨 Web & App Design
 - 💻 Programming & Development
 - 🌐 Search Engine Optimization
 - 🎥 Multimedia production
