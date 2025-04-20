@@ -2,7 +2,7 @@
 
 I'm Adam, a creative digital/ web developer based in Scotland.
 - 🔭 Currently working on my portfolio website, open-source contributions & other solo projects.
-- 🌱 Exploring new paths in multimedia including branding, photography & sound design.
+- 🌱 Exploring new paths in multimedia including branding, photography & video editing.
 - 🖥️ Rediscovering my programming roots and bringing new energy to old projects, motivation for new.
 - 💬 Feel free to ask about project collaborations - looking to expand my portfolio & online presence.
 
