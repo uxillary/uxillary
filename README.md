@@ -36,6 +36,8 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 ## Github Stats
 ![uxillary's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uxillary&theme=vue-dark&hide_border=true)
 
+lost loads of contributions when i changed email :(
+
 ![uxillary's Stats](https://github-readme-stats.vercel.app/api?username=uxillary&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![uxillary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uxillary&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
