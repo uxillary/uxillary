@@ -10,6 +10,9 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 - 2025 - Developing the Infinite Curios general blog site primarily with Tailwind. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Published "Get Optimized" [Buy my book](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
 
+> 🛠️ **Got a bug, idea, or question?**  
+> Drop it in the [issues](../../issues) — I check them regularly and would love to hear from you!
+
 ## Skills
 - 🎨 Web & App Design
 - 💻 Programming & Development
