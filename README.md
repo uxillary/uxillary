@@ -4,15 +4,14 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 - 🔭 Currently working on my portfolio website & other solo projects.
 - 🌱 Exploring new paths in multimedia including branding, photography & video editing.
 - 🖥️ Rediscovering my programming roots and bringing new energy to old projects, motivation for new.
-- 💬 Feel free to ask about project collaborations - looking to expand my portfolio & online presence.
+- 💬 Feel free to ask about upcoming projects for collaborations/ hackathons.
+
+[adamj.link](https://adamj.link)
 
 ## Latest 
-- Wokring on and always improving: aspartameawareness.org, ajstudios.dev, infinitecurios.blog & recently 404cache.net
-- 2025 - Developing the Infinite Curios general blog site primarily with Tailwind. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Published "Get Optimized" [Buy my book](https://www.amazon.co.uk/dp/B0F9B2MN62).
+- Wokring on and always improving: ajstudios.dev, infinitecurios.blog & hexlabs.app.
+- 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer, Published "Get Optimized" [Buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
-
-> 🛠️ **Got a bug, idea, or question?**  
-> Drop it in the [issues](../../issues) — I check them regularly and would love to hear from you!
 
 ## Skills
 - 🎨 Web & App Design
@@ -93,9 +92,7 @@ lost loads of contributions when i changed email :(
 [<img src="https://img.shields.io/badge/🔗-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" height="30">](https://x.com/admjski)
 [<img src="https://img.shields.io/badge/🔗-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="30">](mailto:adam@ajstudios.dev)
 [<img src="https://img.shields.io/badge/🔗-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" height="30">](https://www.instagram.com/admjski/)
-[<img src="https://img.shields.io/badge/🔗-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Portfolio Logo" height="30">](https://adamj.link)
 [<img src="https://img.shields.io/badge/🔗-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Logo" height="30">](https://developers.google.com/profile/u/adamski)
 [<img src="https://img.shields.io/badge/🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" height="30">](https://www.linkedin.com/in/admjski)
-[<img src="https://img.shields.io/badge/🔗-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Logo" height="30">](https://www.behance.net/admjski)
-[<img src="https://img.shields.io/badge/🔗-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" height="30">](https://www.facebook.com/profile.php?id=61557654901325)
+[<img src="https://img.shields.io/badge/🔗-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Logo" height="30">](https://www.facebook.com/profile.php?id=admjski)
 [<img src="https://img.shields.io/badge/🔗-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Logo" height="30">](https://buymeacoffee.com/admjski)
