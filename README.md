@@ -6,8 +6,11 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 - 🖥️ Rediscovering my programming roots and bringing new energy to old projects, motivation for new.
 - 💬 Feel free to ask about upcoming projects for collaborations/ hackathons.
 
-[adamj.link](https://adamj.link)
-
+<p align="center">
+  <a href="https://adamj.link">
+    <img src="https://img.shields.io/badge/🔗%20My%20Hub-Click%20Here-55e6a5?style=for-the-badge" alt="My Hub"/>
+  </a>
+</p>
 ## Latest 
 - Wokring on and always improving: ajstudios.dev, infinitecurios.blog & hexlabs.app.
 - 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer, Published "Get Optimized" [Buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
