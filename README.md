@@ -1,10 +1,10 @@
 # Yo 😎
 
 I'm Adam, a creative digital/ web developer based in Scotland.
-- 🔭 Currently working on my portfolio website & other solo projects.
-- 🌱 Exploring new paths in multimedia including branding, photography & video editing.
+- 🔭 Currently working on solo projects & rebuilding portfolio.
+- 🌱 Exploring new paths in multimedia including branding, photography, video & sound editing.
 - 🖥️ Rediscovering my programming roots and bringing new energy to old projects, motivation for new.
-- 💬 Feel free to ask about upcoming projects for collaborations/ hackathons.
+- 💬 Feel free to ask about upcoming projects for collaborations and hackathons.
 
 <p align="center">
   <a href="https://adamj.link">
@@ -13,7 +13,7 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 </p>
 
 ## Latest 
-- Wokring on and always improving: ajstudios.dev, infinitecurios.blog & hexlabs.app.
+- Wokring on and always improving: ajstudios.dev, infinitecurios.blog & hexlabs.app. 
 - 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer (free alternative), Published "Get Optimized" [buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
 
@@ -76,14 +76,8 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)  
 
 
-
-
-
-
 ## Github Stats
 ![uxillary's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uxillary&theme=vue-dark&hide_border=true)
-
-lost loads of contributions when i changed email :(
 
 ![uxillary's Stats](https://github-readme-stats.vercel.app/api?username=uxillary&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
