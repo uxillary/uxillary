@@ -11,9 +11,10 @@ I'm Adam, a creative digital/ web developer based in Scotland.
     <img src="https://img.shields.io/badge/🔗%20My%20Hub-Click%20Here-55e6a5?style=for-the-badge" alt="My Hub"/>
   </a>
 </p>
+
 ## Latest 
 - Wokring on and always improving: ajstudios.dev, infinitecurios.blog & hexlabs.app.
-- 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer, Published "Get Optimized" [Buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
+- 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer (free alternative), Published "Get Optimized" [buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
 
 ## Skills
