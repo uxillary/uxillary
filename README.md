@@ -19,9 +19,9 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 
 ## Skills
 - 🎨 Web & App Design
-- 💻 Programming & Development
+- 💻 Programming & Scripting
 - 🌐 Search Engine Optimization
-- 🎥 Multimedia production
+- 🎥 Digital Multimedia Production
 
 ## Languages & Tools:
 <!-- Tier 1 -->
