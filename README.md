@@ -13,7 +13,8 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 </p>
 
 ## Latest 
-- Wokring on and always improving: ajstudios.dev, infinitecurios.blog & hexlabs.app. 
+- Zenplay accessibility gaming, offline AI tool, AJ digital services.
+- Working on improving: ajstudios.dev, 404cache.net & hexlabs.app. 
 - 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer (free alternative), Published "Get Optimized" [buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
 
